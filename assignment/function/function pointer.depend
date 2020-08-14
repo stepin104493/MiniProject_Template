@@ -1,0 +1,38 @@
+# depslib dependency file v1.0
+1597052165 source:d:\new folder\function pointer\unity\unity.c
+	"unity.h"
+	<stddef.h>
+	<avr/pgmspace.h>
+
+1597052165 d:\new folder\function pointer\unity\unity.h
+	"unity_internals.h"
+
+1597052165 d:\new folder\function pointer\unity\unity_internals.h
+	"unity_config.h"
+	<setjmp.h>
+	<math.h>
+	<stddef.h>
+	<stdarg.h>
+	<stdint.h>
+	<limits.h>
+	<stdio.h>
+	<stdio.h>
+	<time.h>
+	<time.h>
+
+1597341908 source:d:\new folder\function pointer\main.c
+	<stdio.h>
+	<stdlib.h>
+	"test_func.h"
+
+1597340890 d:\new folder\function pointer\test_func.h
+
+1597342269 source:d:\new folder\function pointer\func_pointer.c
+	"func_pointer.h"
+
+1597342272 d:\new folder\function pointer\func_pointer.h
+
+1597341859 source:d:\new folder\function pointer\test_func.c
+	"unity.h"
+	"func_pointer.h"
+
