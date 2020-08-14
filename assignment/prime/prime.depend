@@ -1,0 +1,73 @@
+# depslib dependency file v1.0
+1597331252 source:d:\new folder\prime\main.c
+	"test_prime.h"
+
+1597330520 d:\new folder\prime\test_prime.h
+
+1597331089 source:d:\new folder\prime\prime.c
+	"prime.h"
+
+1597330387 d:\new folder\prime\prime.h
+
+1597052165 source:d:\new folder\prime\unity\unity.c
+	"unity.h"
+	<stddef.h>
+	<avr/pgmspace.h>
+
+1597052165 d:\new folder\prime\unity\unity.h
+	"unity_internals.h"
+
+1597052165 d:\new folder\prime\unity\unity_internals.h
+	"unity_config.h"
+	<setjmp.h>
+	<math.h>
+	<stddef.h>
+	<stdarg.h>
+	<stdint.h>
+	<limits.h>
+	<stdio.h>
+	<stdio.h>
+	<time.h>
+	<time.h>
+
+1597334634 source:d:\new folder\prime\test_prime.c
+	"unity.h"
+	"prime.h"
+
+1597344904 source:d:\cprogramming\prime\main.c
+	"test_prime.h"
+
+1597330520 d:\cprogramming\prime\test_prime.h
+
+1597052165 source:d:\cprogramming\prime\unity\unity.c
+	"unity.h"
+	<stddef.h>
+	<avr/pgmspace.h>
+
+1597052165 d:\cprogramming\prime\unity\unity.h
+	"unity_internals.h"
+
+1597052165 d:\cprogramming\prime\unity\unity_internals.h
+	"unity_config.h"
+	<setjmp.h>
+	<math.h>
+	<stddef.h>
+	<stdarg.h>
+	<stdint.h>
+	<limits.h>
+	<stdio.h>
+	<stdio.h>
+	<time.h>
+	<time.h>
+
+1597377933 source:d:\cprogramming\prime\prime.c
+	"prime.h"
+
+1597378117 d:\cprogramming\prime\prime.h
+
+1597377559 source:d:\cprogramming\prime\test_prime.c
+	"unity.h"
+	"prime.h"
+
+1597330520 d:\cprogramming\prime\headers\test_prime.h
+
